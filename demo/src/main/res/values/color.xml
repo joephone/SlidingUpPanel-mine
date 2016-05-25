@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 公共颜色 -->
+    <color name="public_theme_orange">#ff7116</color>
+    <color name="public_title_white">#fdffff</color>
+    <color name="public_title_black">#333333</color>
+    <color name="public_title_black_alpha">#88333333</color>
+    <color name="public_bg_gray">#fafafa</color>
+    <color name="public_bg_gray_b">#fafafb</color>
+    <color name="public_bg_light_black">#5E5D5E</color>
+
+
+    <color name="public_line_gray">#dfdfdf</color>
+    <color name="public_text_black">#313131</color>
+    <color name="public_text_gray">#a0a0a0</color>
+    <color name="public_orange">#ff7116</color>
+    <color name="public_orange_50">#80ff7116</color>
+    <!-- 公共结束-->
+
+    <color name="text_count_gray">#c9c9c9</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#007AFF</color>
+    <color name="blue_spot">#0092FF</color>
+    <color name="pink">#D77AFF</color>
+
+    <color name="light_blue">#0068b7</color>
+    <color name="light_gray">#737373</color>
+    <color name="light_orange">#ffdec8</color>
+    <color name="black_80">#80000000</color>
+    <color name="black_50">#50000000</color>
+    <color name="black_0">#00000000</color>
+
+
+    <color name="red">#ff144f</color>
+    <!-- 分割线 -->
+    <color name="line">#dddddd</color>
+    <color name="line_spot">#9FA19E</color>
+    <color name="bg_gray">#fafafa</color>
+    <color name="line_stroke">#eeeeee</color>
+
+    <color name="light_black">#fafafa</color>
+
+
+    <color name="main_text">#ffbf13</color>
+    <color name="default_text">#a0a0a0</color>
+   <color name="main_text_sel">#959595</color>
+    <color name="text_common">#1b1b1b</color>
+    <color name="selector_liner_color">#c6c6c6</color>
+    <color name="selector_chat_bg">#d9d9d9</color>
+    <color name="item_press">#f3f3f3</color>
+    <color name="gray">#cccccc</color>
+    <color name="white_smoke">#f0f0f1</color>
+    <color name="dark_orange">#AF4C10</color>
+    <color name="dark_white">#FCFCFA</color>
+
+    <color name="lake_green">#8FC7C8</color>
+    <color name="island_green">#007143</color>
+<!-- 潮汐 天气-->
+    <color name="color_line">#ffe3e3e3</color>
+    <color name="paint_yinying">#cd000000</color>
+ <color name="title_devider">#b2b2b2</color>
+    <!-- 日历 -->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="light_green">#92d5fd</color>
+    <!-- 潮汐 -->
+    <color name="dialog_fish">#4a4a4a</color>
+    <color name="newtides_fish_bg2">#484848</color>
+    <color name="newtides_fish_bg">#849bbb</color>
+    <color name="newtides_triangle_bg">#c50615</color>
+    <color name="newtides_item_bg">#19000000</color>
+    <color name="newtides_day_bg">#19ffffff</color>
+    <color name="newtides_night_bg">#19000000</color>
+    <color name="newtides_round_bg">#005B74D7</color>
+    <color name="newtides_hight_rect">#ffbd13</color>
+    <color name="newtides_middle_rect">#0092ff</color>
+    <color name="newtides_low_rect">#cccccc</color>
+    <color name="newtides_benchmark_bg">#333333</color>
+    <color name="newtides_toptext">#0d5495</color>
+    <color name="newtides_toprect_bg">#deefff</color>
+    <color name="newtides_rect_bg">#0a4e8b</color>
+    <color name="newtides_high">#ff0000</color>
+    <color name="newtides_low">#88ff5f</color>
+    <color name="newtides_text_mini">#919191</color>
+    <color name="newtides_circle">#ffbd13</color>
+    <color name="newtides_circle2">#2e2f2f</color>
+    <color name="newtides_crossLine">#5b5b5b</color>
+    <color name="newtides_text_mark">#040000</color>
+    <color name="newtides_click_bg">#cecece</color>
+    <color name="newtides_fish_mark">#313131</color>
+    <color name="newtides_fish_count">#6b6b6b</color>
+    <!-- 天气 -->
+    <color name="weather_wind">#1b294e</color>
+    <color name="weather_bg">#f2f8ff</color>
+    <color name="weather_time">#f3f5f7</color>
+    <color name="weather_humidity">#006cff</color>
+    <color name="weather_air_pressure">#535353</color>
+    <color name="weather_rainfall">#000000</color>
+    <color name="weather_wave_height">#000000</color>
+    <color name="weather_wind_direction">#188702</color>
+    <color name="weather_gust">#6d46cc</color>
+    <color name="weather_rect">#006cff</color>
+    <color name="weather_title_bg">#3ec6f9</color>
+    <color name="weather_table_left">#f6f6f6</color>
+    <color name="weather_table_right">#ffffff</color>
+    <color name="weather_title_top">#ecf5fa</color>
+    <color name="weather_title_bottom">#d8e6f3</color>
+    <color name="weather_left_menuText">#666666</color>
+    <color name="weather_content_text">#323232</color>
+    <color name="weather_title_text">#999999</color>
+    <color name="weather_blue0">#b4ebeb</color>
+    <color name="weather_blue1">#99ffff</color>
+    <color name="weather_blue2">#65ffff</color>
+    <color name="weather_blue3">#00ffff</color>
+    <color name="weather_blue4">#00ccff</color>
+    <color name="weather_blue5">#0099ff</color>
+    <color name="weather_blue6">#0166ff</color>
+    <color name="weather_blue7">#0000ff</color>
+    <color name="weather_blue8">#0000cc</color>
+    <color name="weather_blue9">#000098</color>
+    <color name="weather_blue10">#010066</color>
+    <color name="weather_blue11">#060650</color>
+    <color name="weather_red0">#ffcccc</color>
+    <color name="weather_red1">#ffaeae</color>
+    <color name="weather_red2">#ff9191</color>
+    <color name="weather_red3">#fe7373</color>
+    <color name="weather_red4">#ff5555</color>
+    <color name="weather_red5">#ff3737</color>
+    <color name="weather_red6">#ff1c1c</color>
+    <color name="weather_red7">#ef0000</color>
+    <color name="weather_red8">#ce0000</color>
+    <color name="weather_gray9">#eeeeee</color>
+    <color name="weather_wind0">#64c900</color>
+    <color name="weather_wind1">#ff7f00</color>
+    <color name="weather_wind2">#ff0000</color>
+    <color name="weather_wind00">#0064c900</color>
+    <color name="weather_wind11">#00ff7f00</color>
+    <color name="weather_wind22">#00ff0000</color>
+    <color name="new_weather_wind0">#ffffff</color>
+    <color name="new_weather_wind1">#ccffff</color>
+    <color name="new_weather_wind2">#99ffff</color>
+    <color name="new_weather_wind3">#65ffff</color>
+    <color name="new_weather_wind4">#00ffff</color>
+    <color name="new_weather_wind5">#00ccff</color>
+    <color name="new_weather_wind6">#0099ff</color>
+    <color name="new_weather_wind7">#0166ff</color>
+    <color name="new_weather_wind8">#0000fe</color>
+    <color name="new_weather_wind9">#0000cc</color>
+    <color name="new_weather_wind10">#000098</color>
+    <color name="new_weather_wind11">#010066</color>
+    <color name="new_weather_wind12">#010066</color>
+    <color name="weather_new_50">#0322b4</color>
+    <color name="weather_new_40">#1037ed</color>
+    <color name="weather_new_30">#046fe3</color>
+    <color name="weather_new_20">#4ca6ff</color>
+    <color name="weather_new_10">#6fc0fd</color>
+    <color name="weather_new_5">#8afbf8</color>
+    <color name="weather_new_0">#ffffff</color>
+    <color name="weather_new5">#fbffcc</color>
+    <color name="weather_new15">#ffe686</color>
+    <color name="weather_new25">#ffba74</color>
+    <color name="weather_new30">#ff9428</color>
+    <color name="weather_new35">#f56e00</color>
+    <color name="weather_new37">#e32410</color>
+    <color name="weather_new40">#cf2478</color>
+    <color name="weather_new45">#b00a75</color>
+    <color name="weather_new60">#a500b9</color>
+    <color name="months_tabletitle_right">#8cdfff</color>
+    <!-- 月龄 -->
+    <color name="newmonths_title_text">#00aeff</color>
+    <color name="newmonths_today_bg">#dcdcdc</color>
+    <color name="newmonths_item_bg">#fafafa</color>
+    <color name="newmonths_height_bg">#ffe0e0</color>
+    <color name="newmonths_low_bg">#e0ffee</color>
+    <color name="newmonths_text">#dddddd</color>
+    <color name="newmonths_tidebg">#e5f8ff</color>
+    <color name="newmonths_line">#eeeeee</color>
+    <color name="newmonths_title">#00aeff</color>
+    <color name="months_title_bg">#3ec6fa</color>
+    <color name="months_tabletitle_left">#aae8ff</color>
+    <color name="months_tabletitle_text">#ffffff</color>
+    <color name="months_table_left">#e3e3e3</color>
+    <color name="months_table_right">#ebebeb</color>
+    <color name="months_table_left2">#f6f6f6</color>
+    <color name="months_table_right2">#ffffff</color>
+    <color name="months_today_left">#98ffe9</color>
+    <color name="months_today_right">#aaffec</color>
+    <color name="months_sun_text">#858585</color>
+    <color name="months_tide_text">#666666</color>
+    <color name="months_tideheig_text">#1aa6ff</color>
+    <color name="months_date_text">#666666</color>
+    <color name="lin_click_bg">#80b9f2</color>
+    <color name="login_text">#B2B2B2</color>
+    <color name="login_line">#cdcdcd</color>
+    <color name="sidebar">#a6e3ff</color>
+
+  <!--潮汐天气相关结束-->
+    <!--聊天-->
+    <color name="sidebar_background">#bfbfbf</color>
+    <color name="line_chat">#efefef</color>
+    <color name="chat_bg">#ebebeb</color>
+
+  <!-- 鱼百科 -->
+    <color name="drop_down_selected">#ff7116</color>
+    <color name="drop_down_unselected">#111111</color>
+    <color name="mask_color">#88888888</color>
+    <color name="check_bg">#a0a0a0</color>
+    <color name="un_press_color">#9C27B0</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+</resources>
