@@ -45,6 +45,7 @@
         android:id="@+id/dragView">
 
         <LinearLayout
+            android:id="@+id/layPanel"
             android:layout_width="match_parent"
             android:layout_height="35dp"
             android:orientation="horizontal">
